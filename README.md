@@ -1,0 +1,2 @@
+# Movie-Distribution-Database
+In this project, the database keeps information about “Movie” its Name, ID, Producer and Director to that movie, Actor and its release date and then “Distributor” take care of distributing movie to the theaters. After the movie release the amount collected is taken into consideration and shared along the theater, producer and distributes. We majorly focus on the distribution of the movie and the total collection of movies.
